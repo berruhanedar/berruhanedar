@@ -10,8 +10,6 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
- 
  🌱 I’m currently learning **Java **
 
 💬 Ask me about [here](https://github.com/berruhanedar/berruhanedar/issues)**
@@ -20,9 +18,9 @@
  
 <div align="center"> 
   <a href="mailto:berruhanedar@icloud.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Cloud%20Foundry-0C9ED5?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+  <a href="https://linkedin.com/in/berru-hanedar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://salesp07.github.io" target="_blank">
