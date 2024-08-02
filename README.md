@@ -20,7 +20,7 @@
   <a href="mailto:berruhanedar@icloud.com">
     <img src="https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=iCloud&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/berru-hanedar" target="_blank">
+  <a href="https://www.linkedin.com/in/berruhanedar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://instagram.com/berruhanedar" target="_blank">
@@ -34,7 +34,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,vscode,github,figma," />
-    <img src="https://skillicons.dev/icons?i=python,c,java,mssql" /><br>
+    <img src="https://skillicons.dev/icons?i=python,c,java,sql" /><br>
 </div>
 
 <br/>
