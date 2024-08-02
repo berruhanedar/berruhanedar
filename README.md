@@ -18,7 +18,7 @@
  
 <div align="center"> 
   <a href="mailto:berruhanedar@icloud.com">
-    <img src="https://img.shields.io/badge/Cloud%20Foundry-0C9ED5?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=iCloud&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/berru-hanedar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
