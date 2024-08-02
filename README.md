@@ -11,9 +11,9 @@
 
 <div align="center">
  
- 🤍 I’m currently learning **Java **
+ 🤍 I’m currently learning Java 
 
- 🤍Ask me about [here](https://github.com/berruhanedar/berruhanedar/issues)**
+ 🤍Ask me about [here](https://github.com/berruhanedar/berruhanedar/issues)
 
  </div>
  
