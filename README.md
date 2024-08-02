@@ -38,15 +38,6 @@
     <img src="https://skillicons.dev/icons?i=python,c,java"/><br>
 </div>
 
-<br/>
-<hr/>
-
-
-<hr/>
-<hr/>
-
-<br/>
-
 
 <br/>
 
