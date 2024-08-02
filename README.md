@@ -1,11 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=berruhanedar.berruhanedar" />
 
 <h1 align="center">
-    Hi There!
-</h1>
-
-<h1 align="center">
-I'm Berru+Hanedar!; 
+    Hi There!<br>
+    I'm Berru Hanedar 🤍
 </h1>
 
 <h3 align="center">A passionate software engineering student from Istanbul</h3>
@@ -14,9 +11,9 @@ I'm Berru+Hanedar!;
 
 <div align="center">
  
- 🌱 I’m currently learning **Java **
+ 🤍 I’m currently learning **Java **
 
-💬 Ask me about [here](https://github.com/berruhanedar/berruhanedar/issues)**
+ 🤍Ask me about [here](https://github.com/berruhanedar/berruhanedar/issues)**
 
  </div>
  
@@ -38,7 +35,7 @@ I'm Berru+Hanedar!;
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,vscode,github,figma,photoshop" />
-    <img src="https://skillicons.dev/icons?i=python,c,java/><br>
+    <img src="https://skillicons.dev/icons?i=python,c,java"/><br>
 </div>
 
 <br/>
