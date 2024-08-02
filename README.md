@@ -1,8 +1,11 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=berruhanedar.berruhanedar" />
 
 <h1 align="center">
-    Hi+There! ;
-    I'm+Berru+Hanedar!; 
+    Hi There!
+</h1>
+
+<h1 align="center">
+I'm Berru+Hanedar!; 
 </h1>
 
 <h3 align="center">A passionate software engineering student from Istanbul</h3>
