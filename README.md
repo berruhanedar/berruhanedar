@@ -5,9 +5,7 @@
     I'm Berru Hanedar 🤍
 </h1>
 
-<h3 align="center">A passionate software engineering student from Istanbul</h3>
 
-<br/>
 
 <div align="center">
  
