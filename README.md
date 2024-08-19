@@ -36,7 +36,7 @@
     <img src="https://skillicons.dev/icons?i=figma,photoshop,hibernate,idea" />
     <img src="https://skillicons.dev/icons?i=python,c,java,postgres,postman,spring,maven"/><br>
     <img src="maven"/><br>
-    <img src="https:go-skill-icons.vercel.app/api/icons?i=swagger"/><br>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=swagger"/><br>
 </div>
 
 
