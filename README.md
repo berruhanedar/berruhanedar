@@ -32,8 +32,8 @@
 <h2 align="center"> Languages-Frameworks-Tools </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,github,java,figma,maven,idea,photoshop,docker" />
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=postman,python,postgres,vscode,spring,hibernate,swagger,c"/><br>
+    <img src="https://skillicons.dev/icons?i=html,java,figma,maven,idea,photoshop" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=postman,postgres,spring,hibernate,swagger,c"/><br>
 </div>
 
 
